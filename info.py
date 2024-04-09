@@ -46,7 +46,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Admin:Admin@cluster0.yszqcak.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('Admin', "")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Admin")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'AutoFilter')
 
 # Others
