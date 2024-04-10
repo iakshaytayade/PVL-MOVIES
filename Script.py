@@ -203,7 +203,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 
 ▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @LUCIFER_MORENINGSTAR
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Movies_Empire_MoviesBOT</b>""" 
+▫️ Backup Cʜᴀɴɴᴇʟ : @Movies_Empire_Backup</b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
