@@ -43,10 +43,10 @@ BUTTONS0 = {}
 BUTTONS1 = {}
 BUTTONS2 = {}
 SPELL_CHECK = {}
-ADMIN_USRNM = "UNKNOWN_MAN_ON_MISSION"
+ADMIN_USRNM = "Morning004"
 # ENABLE_SHORTLINK = ""
 
-@Client.on_message(filters.group |filters.text & filters.incoming)
+@Client.on_message(filters.group & filters.text & filters.incoming)
 async def give_filter(client, message):
     if message.chat.id != SUPPORT_CHAT_ID:
         manual = await manual_filters(client, message)
