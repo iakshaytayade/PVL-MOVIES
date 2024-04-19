@@ -25,8 +25,8 @@ PICS = (environ.get('PICS', 'https://telegra.ph/file/58cfae82fbd878a074b4e.jpg')
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/2f7b5a8b0d33102d19c8d.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://graph.org/file/900c5d3aca7c6b100eb69.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/7b0ba2952ec098bb46997.jpg")
-VRFIED_IMG = environ.get("VRFIED_IMG", "https://graph.org/file/2f7b5a8b0d33102d19c8d.jpg")
-VRFY_IMG = environ.get("VRFY_IMG", "https://graph.org/file/2f7b5a8b0d33102d19c8d.jpg")
+VRFIED_IMG = environ.get("VRFIED_IMG", "https://telegra.ph/file/9040481e3fa7635866242.jpg")
+VRFY_IMG = environ.get("VRFY_IMG", "https://telegra.ph/file/9040481e3fa7635866242.jpg")
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5338780505').split()]
