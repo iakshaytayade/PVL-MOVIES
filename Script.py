@@ -141,7 +141,7 @@ Dᴏɴ'ᴛ Wᴏʀʀʏ 😊, Cʜᴏᴏsᴇ Tʜᴇ Cᴏʀʀᴇᴄᴛ Oɴᴇ Bᴇʟ
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ..."""
 
     MVE_NT_FND = """''''ᴍᴏᴠɪᴇ ɴᴏᴛ ғᴏᴜɴᴅ ɪɴ ᴅᴀᴛᴀʙᴀsᴇ''ᴅʀᴏᴘ ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ 
-👉@M_orningBot
+👉@L_uciBot
 
 #ʀᴇǫᴜᴇsᴛ 
 ɴᴀᴍᴇ - ᴀɴɪᴍᴀʟ
@@ -205,11 +205,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/Movies_Empire_Backup>{file_caption}</a>
+<b><a href=https://t.me/+lpQq01Fvg91mYmU1>{file_caption}</a>
 
 
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @LUCIFER_MORENINGSTAR
-▫️ Backup Cʜᴀɴɴᴇʟ : @Movies_Empire_Backup</b>""" 
+▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Hollywood_Hub_Movie
+▫️ Backup Cʜᴀɴɴᴇʟ : @Backup_Channel_empire</b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
