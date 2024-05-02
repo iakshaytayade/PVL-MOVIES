@@ -50,7 +50,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Movies")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'AutoFilter')
 
 # Others
-VERIFY = bool(environ.get('VERIFY', True))
+VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'publicearn.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '32e9a22f6dee68573f523e0aaf080bbf20d99672')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
