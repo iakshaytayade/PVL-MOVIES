@@ -207,8 +207,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
     CAPTION = """
 <b><a href=https://t.me/+XwzVvi5fd01iYTI1>{file_caption}</a>
 
-
-▫️ Backup Cʜᴀɴɴᴇʟ : @Filmy_Duniya_Backcup</b>""" 
+▫️Backup Cʜᴀɴɴᴇʟ : @Filmy_Duniya_Backcup</b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
