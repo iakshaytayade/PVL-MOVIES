@@ -206,9 +206,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/+XwzVvi5fd01iYTI1>{file_caption}</a>
+<b><a href=https://t.me/+4Kn0EtVom08zYjc9>{file_caption}</a>
 
-▫️Backup Cʜᴀɴɴᴇʟ : @Filmy_Duniya_Backcup</b>""" 
+▫️Backup Cʜᴀɴɴᴇʟ : </b>""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
