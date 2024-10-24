@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', '24942826'))
-API_HASH = environ.get('API_HASH', 'e3e2f3b65ef58634139ccd27d6b7d8cb')
-BOT_TOKEN = environ.get('BOT_TOKEN', "7093508362:AAHjKif_JJWXcmJOfmgM5O01n1S1oTHig0k")
+API_ID = int(environ.get('API_ID', '13118692'))
+API_HASH = environ.get('API_HASH', '71e89992f55e1c0890e756489726ea44')
+BOT_TOKEN = environ.get('BOT_TOKEN', "7813798817:AAEX4qg8alpB2cLdfZg6EMyDg5e0MhwV_mg")
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 10800))
@@ -29,25 +29,25 @@ VRFIED_IMG = environ.get("VRFIED_IMG", "https://telegra.ph/file/9040481e3fa76358
 VRFY_IMG = environ.get("VRFY_IMG", "https://telegra.ph/file/9040481e3fa7635866242.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7375753854 6914788581').split()]
-CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002191230586').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7355470487').split()]
+CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002322249301').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '0').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
 PREMIUM_USER = [int(user) if id_pattern.search(user) else user for user in environ.get('PREMIUM_USER', '7375753854').split()]
-auth_channel = environ.get('AUTH_CHANNEL', '-1001958666509')
+auth_channel = environ.get('AUTH_CHANNEL', '-1002322249301')
 auth_grp = environ.get('AUTH_GROUP')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '')
-reqst_channel = environ.get('REQST_CHANNEL_ID', '')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002322249301')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://anyname:anyname@anyname.hds31.mongodb.net/?retryWrites=true&w=majority&appName=anyname")
-DATABASE_NAME = environ.get('DATABASE_NAME', "anyname")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'anyname')
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://bikash:bikash@bikash.3jkvhp7.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "bikash")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'TelegramFiles')
 
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
@@ -65,7 +65,7 @@ TUTORIAL = environ.get('TUTORIAL', 'https://t.me/howtoopnelink001/2')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/howtoopnelink001/18')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002427059740'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002173701795'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '-1002109653039')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "True")), False)
